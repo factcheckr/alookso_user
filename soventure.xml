@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://alook.so/users/6mt7oo</id>
+    <title>alookso ─ 이재웅</title>
+    <updated>2022-03-10T15:52:54.080Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[오징어게임 죽음관련 데이터]]></title>
+        <id>https://alook.so/posts/3wtd1V</id>
+        <link href="https://alook.so/posts/3wtd1V"/>
+        <updated>2022-03-10T15:51:34.511Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/3wtd1V">오징어게임 죽음관련 데이터</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[일자리가 없어지는 시대, 노동이 의무일까요? 권리일까요?]]></title>
+        <id>https://alook.so/posts/QeVtBj</id>
+        <link href="https://alook.so/posts/QeVtBj"/>
+        <updated>2022-03-10T15:51:34.512Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/QeVtBj">일자리가 없어지는 시대, 노동이 의무일까요? 권리일까요?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[미래의 일자리에 대한 팟캐스트 추천]]></title>
+        <id>https://alook.so/posts/N2xtYZ</id>
+        <link href="https://alook.so/posts/N2xtYZ"/>
+        <updated>2022-03-10T15:51:34.513Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/N2xtYZ">미래의 일자리에 대한 팟캐스트 추천</a>]]></content>
+    </entry>
+</feed>

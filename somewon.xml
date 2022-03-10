@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://alook.so/users/8Ogtna</id>
+    <title>alookso ─ 윤성원</title>
+    <updated>2022-03-10T15:52:54.087Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[MBTI에 대해서 어떻게 생각하세요?]]></title>
+        <id>https://alook.so/posts/mbtbWJ</id>
+        <link href="https://alook.so/posts/mbtbWJ"/>
+        <updated>2022-03-10T15:51:14.106Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtbWJ">MBTI에 대해서 어떻게 생각하세요? </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[배우 윤여정 님이 생각하는 K-콘텐츠의 글로벌 흥행 이유]]></title>
+        <id>https://alook.so/posts/92tynj</id>
+        <link href="https://alook.so/posts/92tynj"/>
+        <updated>2022-03-10T15:51:14.108Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92tynj">배우 윤여정 님이 생각하는 K-콘텐츠의 글로벌 흥행 이유</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[유재석 씨가 롱런하는 이유는 꿈이 없기 때문일지도 모릅니다]]></title>
+        <id>https://alook.so/posts/lat8e8</id>
+        <link href="https://alook.so/posts/lat8e8"/>
+        <updated>2022-03-10T15:51:14.109Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/lat8e8">유재석 씨가 롱런하는 이유는 꿈이 없기 때문일지도 모릅니다</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[매일 빠지지 않고 꾸준히 하는 것이 있나요?]]></title>
+        <id>https://alook.so/posts/bWtMm9</id>
+        <link href="https://alook.so/posts/bWtMm9"/>
+        <updated>2022-03-10T15:51:14.112Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWtMm9">매일 빠지지 않고 꾸준히 하는 것이 있나요?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[넷플릭스 드라마 '지옥'을 봤습니다.]]></title>
+        <id>https://alook.so/posts/jdtPdq</id>
+        <link href="https://alook.so/posts/jdtPdq"/>
+        <updated>2022-03-10T15:51:14.113Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/jdtPdq">넷플릭스 드라마 '지옥'을 봤습니다.</a>]]></content>
+    </entry>
+</feed>

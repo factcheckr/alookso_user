@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://alook.so/users/8YEtX8</id>
+    <title>alookso ─ 권오현</title>
+    <updated>2022-03-10T15:52:54.208Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[검찰의 정보공개 운영실적 평가와 개인정보 관리 이슈]]></title>
+        <id>https://alook.so/posts/mbtyPa</id>
+        <link href="https://alook.so/posts/mbtyPa"/>
+        <updated>2022-03-10T15:51:55.237Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtyPa">검찰의 정보공개 운영실적 평가와 개인정보 관리 이슈</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[우리나라의 2030년까지의 온실가스감축목표를 논의하는 공개 토론회가 열립니다]]></title>
+        <id>https://alook.so/posts/potWbr</id>
+        <link href="https://alook.so/posts/potWbr"/>
+        <updated>2022-03-10T15:51:55.238Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/potWbr">우리나라의 2030년까지의 온실가스감축목표를 논의하는 공개 토론회가 열립니다</a>]]></content>
+    </entry>
+</feed>

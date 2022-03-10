@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://alook.so/users/qQPtde</id>
+    <title>alookso ─ 조소담</title>
+    <updated>2022-03-10T15:52:54.073Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[가족주의와 생존주의]]></title>
+        <id>https://alook.so/posts/mbtpB7</id>
+        <link href="https://alook.so/posts/mbtpB7"/>
+        <updated>2022-03-10T15:51:20.997Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtpB7">가족주의와 생존주의 </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[서로 이해하기 위해서 필요한 대화의 재료]]></title>
+        <id>https://alook.so/posts/rDtzp4</id>
+        <link href="https://alook.so/posts/rDtzp4"/>
+        <updated>2022-03-10T15:51:20.998Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtzp4">서로 이해하기 위해서 필요한 대화의 재료 </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[보이지 않는 사회적 압박에 대한 이야기]]></title>
+        <id>https://alook.so/posts/YytPDq</id>
+        <link href="https://alook.so/posts/YytPDq"/>
+        <updated>2022-03-10T15:51:21.000Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/YytPDq">보이지 않는 사회적 압박에 대한 이야기 </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[내일은 수능날입니다 - 안철수의 '청년 정책'에 붙여서]]></title>
+        <id>https://alook.so/posts/eVtGrZ</id>
+        <link href="https://alook.so/posts/eVtGrZ"/>
+        <updated>2022-03-10T15:51:21.001Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtGrZ">내일은 수능날입니다 - 안철수의 '청년 정책'에 붙여서 </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[차별금지법, 진짜 되게 할 방법이 없을까요?]]></title>
+        <id>https://alook.so/posts/jdtXMy</id>
+        <link href="https://alook.so/posts/jdtXMy"/>
+        <updated>2022-03-10T15:51:21.002Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/jdtXMy">차별금지법, 진짜 되게 할 방법이 없을까요? </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[정치가 듣는 '국민 의견' ,'여론'의 진짜 실체는 무엇일까요?]]></title>
+        <id>https://alook.so/posts/6Mt7VJ</id>
+        <link href="https://alook.so/posts/6Mt7VJ"/>
+        <updated>2022-03-10T15:51:21.003Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/6Mt7VJ">정치가 듣는 '국민 의견' ,'여론'의 진짜 실체는 무엇일까요? </a>]]></content>
+    </entry>
+</feed>

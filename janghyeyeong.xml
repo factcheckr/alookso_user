@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://alook.so/users/8XGtO0</id>
+    <title>alookso ─ 장혜영</title>
+    <updated>2022-03-10T15:52:54.083Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[온라인에서 진지하고 발전적인 대화가 정말 가능할까요?]]></title>
+        <id>https://alook.so/posts/XBtBDJ</id>
+        <link href="https://alook.so/posts/XBtBDJ"/>
+        <updated>2022-03-10T15:51:48.067Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBtBDJ">온라인에서 진지하고 발전적인 대화가 정말 가능할까요?</a>]]></content>
+    </entry>
+</feed>
