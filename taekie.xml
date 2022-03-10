@@ -4,14 +4,14 @@
         <title>alookso ─ 한상택</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Mar 2022 17:12:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Mar 2022 18:04:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[평점 테러와 차별의 학습]]></title>
-            <link>https://alook.so/users/73tAnn</link>
-            <guid>https://alook.so/users/73tAnn</guid>
-            <pubDate>Thu, 10 Mar 2022 17:11:23 GMT</pubDate>
+            <link>https://alook.so/posts/RGt7Rv</link>
+            <guid>https://alook.so/posts/RGt7Rv</guid>
+            <pubDate>Thu, 10 Mar 2022 18:03:54 GMT</pubDate>
             <content:encoded><![CDATA[<span>저도 카카오브레인 뽀로로의 긍부정감성 분석 사용해보면서 예상 외로 그럴듯한 점수가 나와서 재밌네 싶다가도 영 엉뚱한 결과가 나와서 이게 뭔가 싶었는데요. 학습데이터가 사람이 문장의 뜻을 보고 긍부정 레이블링을 한 데이터가 아니라 영화나 상품의 평점을 맵핑했을 거라고 생각하고 있습니다. 낮은 평점을 주면서는 부정적인 리뷰를 남기고 좋은 평점을 주면서는 긍정적인 말을 적었을 가능성이 높으니 어느 정도 개연성이 있을 것 같습니다. 다만 기계 학습이 말의 맥락을 이해하지 못하는 것 같은데요. "xx는 곧 죽는다에 한표!" 같은 말을 긍정으로 분류해서 갸우뚱했는데요. "와 이 영화 죽인다!" 의 감탄의 말을 학습했을 수도 있겠다 싶더라구요. 이번 건은 페미니즘 영화에 대한 혐오 세력의 평점 테러와 공격적 발언의 어뷰징을 전처리에서 걸러내지 않고 학습 시킨게 아닐까 의심 됩니다.&nbsp; 
 <br>https://www.bbc.com/korean/international-50011058</span>]]></content:encoded>
         </item>
@@ -105,9 +105,9 @@
         </item>
         <item>
             <title><![CDATA[여성가족부, 다름을 존중하고 함께하는 세상을 만듭니다.]]></title>
-            <link>https://alook.so/users/73tAnn</link>
-            <guid>https://alook.so/users/73tAnn</guid>
-            <pubDate>Thu, 10 Mar 2022 17:11:23 GMT</pubDate>
+            <link>https://alook.so/posts/NRGtbP</link>
+            <guid>https://alook.so/posts/NRGtbP</guid>
+            <pubDate>Thu, 10 Mar 2022 18:03:54 GMT</pubDate>
             <content:encoded><![CDATA[<span>🔍 지난 쏘프라이즈 선정작입니다.</span><br>
 <br>
 <span>제목은 여성 가족부 홈페이지에 들어가면 처음 나오는 문장입니다. 이번에 여성 가족부가 무슨 일을 하는지 예산 편성을 통해 피상적으로나마 살펴보게 되었는데요. 여가부는 국가를 구성하는 기본 단위인 가족과 그 구성원이 소외되거나 차별 받지 않도록 보호하고 권익을 높이는 일을 합니다. 여성과 청소년을 넘어서 획일적인 근대적 사회에서 다양성의 사회로 넘어가는 도중 소외되거나 차별 받는 사람 없이 모두가 함께 하는 사회를 만드는 게 현재의 여성가족부가 궁극적으로 지향하는 바 가 아닐까 생각합니다.</span><br>
