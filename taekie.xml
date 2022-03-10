@@ -4,7 +4,7 @@
         <title>alookso ─ 한상택</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Mar 2022 16:10:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Mar 2022 16:11:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -91,7 +91,7 @@
             <title><![CDATA[8]]></title>
             <link>https://alook.so/users/73tAnn</link>
             <guid>https://alook.so/users/73tAnn</guid>
-            <pubDate>Thu, 10 Mar 2022 16:10:01 GMT</pubDate>
+            <pubDate>Thu, 10 Mar 2022 16:11:19 GMT</pubDate>
             <content:encoded><![CDATA[<span>매체의 보도 편향성 순으로 정렬해 보면 좀 더 의미있어 보이네요. 단순 지면 넓이, 1면에 가중치로만 정렬한 것 이지만 의외로 경향이 동아,서울,한국 보다 조선일보쪽에 가까운 것도 흥미롭습니다.</span>]]></content:encoded>
             <enclosure url="https://alook.so/_c/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBc2g0IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--143f999c2d4913ca2bfc878a94ad9f068f1e16fb/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9MWm05eWJXRjBTU0lJY0c1bkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFLRUEya0NoQU02REdOdmJuWmxjblJKSWdocWNHY0dPd1pVT2dwellYWmxjbnNJT2d4eGRXRnNhWFI1YVZVNkNuTjBjbWx3VkRvUFltRmphMmR5YjNWdVpGc0lhUUgvYVFIL2FRSC8iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--b8a1712bc8452aea08f63e2a9adf3256f64d7ceb/Screen%20Shot%202021-11-06%20at%2011.00.51%20AM.png" length="0" type="image/png"/>
         </item>
@@ -99,7 +99,7 @@
             <title><![CDATA[9]]></title>
             <link>https://alook.so/users/73tAnn</link>
             <guid>https://alook.so/users/73tAnn</guid>
-            <pubDate>Thu, 10 Mar 2022 16:10:01 GMT</pubDate>
+            <pubDate>Thu, 10 Mar 2022 16:11:19 GMT</pubDate>
             <content:encoded><![CDATA[<span>도시,건물의 나이를 나타내는 동일한 목적의 시각화에 모두 다른 컬러 맵핑을 사용하고 있는데요. 어떤게 가장 눈에 잘 읽히나요? 시각화하는데 변수와 컬러맵이 절대적인 관계가 있는 건 아니라서 목적에 따라 강조하고 싶은 내용이 잘 드러나면 되는데요. 저는 viridis 컬러맵에는 편견이 있습니다. 강아지풀? 페인티드세이지? 풀의 색에서 따 온 색상 팔레트인데 새로나오는 새싹은 연노란색에서 점점 자라며 진해지다가 꽃을 피우면(꽃 아님) 보라색으로 강렬한 보색을 띄게 되는데요. 그래서 시간에 대한 변수라면 범례를 보지 않고 자연스레 연노랑은 젊은, 보라는 늙은 이란 선입견을 가지게 됩니다. 서울 도시 시각화처럼 오래된 건물에 노란색을 사용하면 정보를 읽을 때 머리속에서 계속 반대로 읽혀서 조금 힘듭니다. :)</span>]]></content:encoded>
             <enclosure url="https://alook.so/_c/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdHBzIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--36754e5d5f86fc7842fe104a3632c7bad5a89534/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9MWm05eWJXRjBTU0lJY0c1bkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFLRUEya0NoQU02REdOdmJuWmxjblJKSWdocWNHY0dPd1pVT2dwellYWmxjbnNJT2d4eGRXRnNhWFI1YVZVNkNuTjBjbWx3VkRvUFltRmphMmR5YjNWdVpGc0lhUUgvYVFIL2FRSC8iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--b8a1712bc8452aea08f63e2a9adf3256f64d7ceb/Screen%20Shot%202021-11-01%20at%203.48.22%20PM.png" length="0" type="image/png"/>
         </item>
