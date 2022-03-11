@@ -4,9 +4,24 @@
         <title>alookso ─ 권승준</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Mar 2022 05:09:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Mar 2022 06:11:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[멋진 시각화에 감탄했습니다!]]></title>
+            <link>https://alook.so/posts/rDtE3z</link>
+            <guid>https://alook.so/posts/rDtE3z</guid>
+            <pubDate>Fri, 11 Mar 2022 06:10:54 GMT</pubDate>
+            <content:encoded><![CDATA[<span>안녕하세요 alookso 권승준 에디터입니다. 선거 끝나고 결과 나온지 하루 만에 이렇게 멋진 결과 그래프를 뚝딱 만들어서 보여주시다니 감탄했습니다. 감사합니다 ㅎㅎ&nbsp;</span><br>
+<br>
+<span>제일 위의 전국 지도와 아래 그려주신 득표율 격차 그래프를 합쳐 보니, 이번 대선에서는 스윙보터들의 오른쪽 이동과 가장 오른쪽(그래프를 기준으로 편의상 그렇게 부르겠습니다)이 좀 더 두터워진 것, 즉 표심이 좀 더 결집한 것이 승부의 변곡점이 된 거 같단 생각이 듭니다. 그 스윙보터와 결집한 표심이 있는 지역들이 서울 일부 지역과 수도권, 충청도 정도가 될 거 같구요.&nbsp;</span><br>
+<br>
+<span>저 역시 가장 흥미로운 점은,&nbsp;</span><br>
+<br>
+<span>이재명 후보를 더 뽑은 지역 중 25~60% 구간이 거의 없다는 점입니다. 30~40% 구간은 3500여개 읍면동 중 아예 한 곳도 없습니다.</span><br>
+<br>
+<span>라는 부분이었습니다. 그래프 상에서 보면 왼쪽은 가운데가 움푹 꺼진 형태라는 것인데, 이건 역시 왼쪽에 있는 투표자들의 결집력이 더 크다는 방증이 아닐까 싶습니다....</span>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[내 한 표의 효용에 관한 고전적인 짤 하나]]></title>
             <link>https://alook.so/posts/mbt0GM</link>
@@ -116,14 +131,6 @@
             <guid>https://alook.so/posts/E7tqaa</guid>
             <pubDate>Thu, 10 Mar 2022 18:03:37 GMT</pubDate>
             <content:encoded><![CDATA[<span>심상정 후보에게 발언 기회 배분을 못해서 심 후보가 토론이 아니라 독백을 하게 만들었네요. 사실 토론에서 가장 중요한게 사회자의 진행 능력인데, 대선 토론회에서 보기엔 유쾌하지 않은 장면을 사회자가 만들어 버리네요.&nbsp;</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[안철수 후보가 민간기업의 지역 유치를 이야기하네요.]]></title>
-            <link>https://alook.so/posts/70t7kP</link>
-            <guid>https://alook.so/posts/70t7kP</guid>
-            <pubDate>Thu, 10 Mar 2022 18:03:37 GMT</pubDate>
-            <content:encoded><![CDATA[<span>안 후보가 지역균형 발전을 위한 정책으로 각 지자체에 예산과 권한을 더 많이 줘서 민간기업을 유치해야 한다는 취지로 이야기를 하네요. 미국의 각 주 정부들이 아마존의 제 2본사 유치 경쟁을 벌였던 사례도 이야기하고요. 그런데 문득 오늘 나온 카우레터가 생각나서 일독을 권하는 차원에서 링크를 걸어 봅니다. 대기업 및 그 계열사들의 소재지를 분석해본 결과 어느 위도 이하에서는 없었다는 내용인데, 안 후보의 이야기와 연계해서 읽어볼 만한 콘텐츠입니다!
-<br>&nbsp;</span>]]></content:encoded>
         </item>
     </channel>
 </rss>
