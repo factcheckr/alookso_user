@@ -4,9 +4,20 @@
         <title>alookso ─ 한상택</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 13 Mar 2022 08:10:50 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Mar 2022 09:09:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[국민의 당 안철수는 선거에서 무슨 역할을 했나?]]></title>
+            <link>https://alook.so/posts/xltoozz</link>
+            <guid>https://alook.so/posts/xltoozz</guid>
+            <pubDate>Sun, 13 Mar 2022 09:08:29 GMT</pubDate>
+            <content:encoded><![CDATA[<span>vuski님이 득표율 차이로 이번 선거의 양상을 보여주셔서 굉장히 이해하기 쉬웠습니다.
+<br>그런데 19대와 20대 득표율 차이를 직접 비교해 해석하는 건 무리가 있다고 생각됩니다. 득표율 차이는 이번과 같은 양자 대결 구도에서는 설명이 잘 되는데요. 득표율 차이 기준점이 상대적이라 19대 같은 다자 대결 구도에서는 동일하게 비교하기 어려운 것 같습니다. 특히 국민의 당이 양쪽에서 가져온 표는 (21.4%) 상이한 성격이 섞여 있어 단순히 중립으로 여기고 제외하기는 더 애매한 것 같습니다. 안철수가 서울, 경기에서는 보수의 표를 뺏아오기도 하고 강원,호남,영남에서는 민주당의 표를 갈라가기도 했으니까요.</span><br>
+<br>
+<span>19대 선거 이후에는 깔끔하게 반대편에서 정부를 비판하는 보수의 모습을 보여줘서 헷갈리지 않고 좋았습니다. 그래서 이번에는 국민들도 헷갈리지 않고 국민의힘에서만 표가 안철수에게 갈렸던것 같고요.</span>]]></content:encoded>
+            <enclosure url="https://alook.so/_c/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBM21qQWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--feb50db43e52e896ed9c82c1af960ca500d681fa/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9MWm05eWJXRjBTU0lJY0c1bkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFLRUEya0NoQU02REdOdmJuWmxjblJKSWdocWNHY0dPd1pVT2dwellYWmxjbnNJT2d4eGRXRnNhWFI1YVZVNkNuTjBjbWx3VkRvUFltRmphMmR5YjNWdVpGc0lhUUgvYVFIL2FRSC8iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--b8a1712bc8452aea08f63e2a9adf3256f64d7ceb/SCR-20220313-n5k.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[시군구별 득표율 차이 보로노이 트리맵]]></title>
             <link>https://alook.so/posts/pot4ev</link>
@@ -97,14 +108,6 @@
 <br>&nbsp;
 <br>혹시 이번 데이터 분석에서는 기존 "20대남" 그룹이 잘 분리되지 않은 것 인가요? 데이터에 성별,연령 그룹의 비교가 없어서 의아합니다. 극단적인 답변을 한 그룹이 다른 그룹에는 없었던 게 아니라 20대 남...</span>]]></content:encoded>
             <enclosure url="https://alook.so/_c/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaDEvIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ba80bd9405ee525cb2e73d90f5187fabcd9b4f73/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9MWm05eWJXRjBTU0lJY0c1bkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFLRUEya0NoQU02REdOdmJuWmxjblJKSWdocWNHY0dPd1pVT2dwellYWmxjbnNJT2d4eGRXRnNhWFI1YVZVNkNuTjBjbWx3VkRvUFltRmphMmR5YjNWdVpGc0lhUUgvYVFIL2FRSC8iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--b8a1712bc8452aea08f63e2a9adf3256f64d7ceb/34344_66972_2125.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[9]]></title>
-            <link>https://alook.so/posts/dzt4Oa</link>
-            <guid>https://alook.so/posts/dzt4Oa</guid>
-            <pubDate>Thu, 10 Mar 2022 16:28:49 GMT</pubDate>
-            <content:encoded><![CDATA[<span>매체의 보도 편향성 순으로 정렬해 보면 좀 더 의미있어 보이네요. 단순 지면 넓이, 1면에 가중치로만 정렬한 것 이지만 의외로 경향이 동아,서울,한국 보다 조선일보쪽에 가까운 것도 흥미롭습니다.</span>]]></content:encoded>
-            <enclosure url="https://alook.so/_c/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBc2g0IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--143f999c2d4913ca2bfc878a94ad9f068f1e16fb/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9MWm05eWJXRjBTU0lJY0c1bkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFLRUEya0NoQU02REdOdmJuWmxjblJKSWdocWNHY0dPd1pVT2dwellYWmxjbnNJT2d4eGRXRnNhWFI1YVZVNkNuTjBjbWx3VkRvUFltRmphMmR5YjNWdVpGc0lhUUgvYVFIL2FRSC8iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--b8a1712bc8452aea08f63e2a9adf3256f64d7ceb/Screen%20Shot%202021-11-06%20at%2011.00.51%20AM.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[여성가족부, 다름을 존중하고 함께하는 세상을 만듭니다.]]></title>
