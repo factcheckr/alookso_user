@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 12 Mar 2022 23:09:17 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Mar 2022 00:31:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1217,8 +1217,10 @@
             <guid>https://alook.so/posts/pot4ev</guid>
             <pubDate>Sat, 12 Mar 2022 03:09:21 GMT</pubDate>
             <content:encoded><![CDATA[<span>지도에 코로플레스맵으로 득표율 차이를 그리면 면적에 따라 시각적으로 왜곡되어 보일 수 있는데요. 실제 어느 지역이 선거 결과에 영향을 많이 미쳤는지 확인해보기 위해 투표자수 기준으로 득표차 비율을 표시했습니다. 
-<br>vuski님이 공유해주신 데이터를 사용했습니다.</span>]]></content:encoded>
-            <enclosure url="https://alook.so/_c/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBL3FJQWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--b049ed61a0436d78bfabe81713c014eb2a3157af/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9MWm05eWJXRjBTU0lKYW5CbFp3WTZCa1ZVT2hSeVpYTnBlbVZmZEc5ZmJHbHRhWFJiQjJrQ2hBTnBBb1FET2d4amIyNTJaWEowU1NJSWFuQm5CanNHVkRvS2MyRjJaWEo3Q0RvTWNYVmhiR2wwZVdsVk9ncHpkSEpwY0ZRNkQySmhZMnRuY205MWJtUmJDR2tCLzJrQi8ya0Ivdz09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--03e61ef78c29925b4dd0893f684e472e94efcabc/SCR-20220312-de5.jpeg" length="0" type="image/jpeg"/>
+<br>vuski님이 공유해주신 데이터를 사용했습니다.</span><br>
+<br>
+<span>수정: 좀 더 비교하기 좋게 권역별로 묶었습니다.</span>]]></content:encoded>
+            <enclosure url="https://alook.so/_c/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMGlaQWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--69a1a9e79b14c4cef7b447c3ac0470472e315b4d/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9MWm05eWJXRjBTU0lKYW5CbFp3WTZCa1ZVT2hSeVpYTnBlbVZmZEc5ZmJHbHRhWFJiQjJrQ2hBTnBBb1FET2d4amIyNTJaWEowU1NJSWFuQm5CanNHVkRvS2MyRjJaWEo3Q0RvTWNYVmhiR2wwZVdsVk9ncHpkSEpwY0ZRNkQySmhZMnRuY205MWJtUmJDR2tCLzJrQi8ya0Ivdz09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--03e61ef78c29925b4dd0893f684e472e94efcabc/SCR-20220312-x88.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[평점 테러와 차별의 학습 (alookso ─ 한상택)]]></title>
