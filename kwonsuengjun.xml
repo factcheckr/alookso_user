@@ -4,9 +4,20 @@
         <title>alookso ─ 권승준</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Mar 2022 06:11:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Mar 2022 07:09:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[0]]></title>
+            <link>https://alook.so/posts/Batam57</link>
+            <guid>https://alook.so/posts/Batam57</guid>
+            <pubDate>Tue, 22 Mar 2022 07:08:43 GMT</pubDate>
+            <content:encoded><![CDATA[<span>오오 벌써 제어공학 이야기를 올려주시다니 ㅎㅎ 감사합니다. 흥미롭게 여러번 읽었습니다. 여러번 읽은 이유는...한 번에 이해가 안 되었기 때문입니다. 학교 다닐 때 공부 열심히 할 걸 하는 후회를 자주 하는 편인데 이번에도 역시 그랬습니다. 일단 미적분이 뭐였는지부터 기억이 가물가물해서. 흑.</span><br>
+<br>
+<span>PID 제어 이야기를 읽으면서 제어공학이 중앙은행이 정책금리를 통해서 경제를 조절하려는 근본적인 방식과 매우 닮았다는 생각을 더욱 굳히게 되었습니다. 제가 PID 제어에 대해 이해해본 바를 가지고 한 번 썰을 풀어보겠습니다. 물론, 제가 미적분에 대해 아는 게 없다는 걸 전제로, 이해가 틀릴 수도 있습니다(틀린 부분은 아마 몬스님께서 바로잡아 주실 것이라고 기대해보며).</span><br>
+<br>
+<span>한국은행은, 다른 선진국 대부분의 중앙은행처럼, 물가안정을 제 1목표로 한 기관입니다. 보통 물가상승률 목표를 가지고 있는데요, 여러분은 물가상승률이 어느 정도가 적절하다고 생각하시나요? 아마 0%라고 생각하시는 ...</span>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[대통령 집무실 이전, 핵심은 과정이다]]></title>
             <link>https://alook.so/posts/mbtqGw8</link>
@@ -104,13 +115,6 @@
 <br>
 <span>굳이 날짜를 딱 맞춰서 공개하고 싶은 바람이 있었는데, 하필 하루 차이로 일정이 어긋나는 바람에, 고민...</span>]]></content:encoded>
             <enclosure url="https://alook.so/_c/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBN0lxQWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--22975bfa8b02fc9a5e3a87b145031a89bb4893ba/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFLRUEya0NoQU02REdOdmJuWmxjblJKSWdocWNHY0dPd1pVT2dwellYWmxjbnNJT2d4eGRXRnNhWFI1YVZVNkNuTjBjbWx3VkRvUFltRmphMmR5YjNWdVpGc0lhUUgvYVFIL2FRSC8iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--9e2ce9b4634fcfcbc951bda419cd2b10eaa9b5bf/tim-mossholder-UcUROHSJfRA-unsplash%20(2).jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2편을 위한 참고자료]]></title>
-            <link>https://alook.so/posts/yEt2vn</link>
-            <guid>https://alook.so/posts/yEt2vn</guid>
-            <pubDate>Thu, 10 Mar 2022 18:03:37 GMT</pubDate>
-            <content:encoded><![CDATA[<span>2편에 SWIFT 이야기를 쓰신다고 했는데, 아침에 본 좋은 칼럼 하나가 있어서 참고하시라고 두고 갑니다ㅎㅎ</span>]]></content:encoded>
         </item>
     </channel>
 </rss>
