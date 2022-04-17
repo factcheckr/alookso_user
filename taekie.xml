@@ -1,8 +1,131 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://alook.so/users/73tAnn</id>
-    <title>alookso ─ 한상택</title>
-    <updated>2022-04-17T05:09:12.187Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>alookso ─ 한상택</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sun, 17 Apr 2022 05:58:29 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[국민의 당 안철수는 선거에서 무슨 역할을 했나?]]></title>
+            <link>https://alook.so/posts/xltoozz</link>
+            <guid>https://alook.so/posts/xltoozz</guid>
+            <pubDate>Sun, 17 Apr 2022 05:57:51 GMT</pubDate>
+            <content:encoded><![CDATA[vuski님이 득표율 차이로 이번 선거의 양상을 보여주셔서 굉장히 이해하기 쉬웠습니다.
+그런데 19대와 20대 득표율 차이를 직접 비교해 해석하는 건 무리가 있다고 생각됩니다. 득표율 차이는 이번과 같은 양자 대결 구도에서는 설명이 잘 되는데요. 득표율 차이 기준점이 상대적이라 19대 같은 다자 대결 구도에서는 동일하게 비교하기 어려운 것 같습니다. 안철수는 서울, 경기에서는 보수의 표를 뺏아오기도 하고 강원,호남,영남에서는 민주당의 표를 갈라가기도 했는데요. 이렇게 많은 표를 (21.4%) 보수표로 보기도 어렵고 민주당의 표로 보기도 어렵고 그렇다고 단순히 중립표라고 생각하고 제외하는 것도 적절하지 않은 것 같습니다. 
+
+19대 선거 이후에는 깔끔하게 반대편에서 정부를 비판하는 보수의 모습을 보여줘서 헷갈리지 않고 좋았습니다. 그래서 이번에는 국민들도 헷갈리지 않고 국민의힘에서만 표가 안철수에게 갈렸던것 같고요.]]></content:encoded>
+            <enclosure url="https://alook.so/_c/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBM21qQWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--feb50db43e52e896ed9c82c1af960ca500d681fa/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9MWm05eWJXRjBTU0lJY0c1bkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFLRUEya0NoQU02REdOdmJuWmxjblJKSWdocWNHY0dPd1pVT2dwellYWmxjbnNJT2d4eGRXRnNhWFI1YVZVNkNuTjBjbWx3VkRvUFltRmphMmR5YjNWdVpGc0lhUUgvYVFIL2FRSC8iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--b8a1712bc8452aea08f63e2a9adf3256f64d7ceb/SCR-20220313-n5k.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[시군구별 득표율 차이 보로노이 트리맵]]></title>
+            <link>https://alook.so/posts/pot4ev</link>
+            <guid>https://alook.so/posts/pot4ev</guid>
+            <pubDate>Sun, 17 Apr 2022 05:57:51 GMT</pubDate>
+            <content:encoded><![CDATA[지도에 코로플레스맵으로 득표율 차이를 그리면 면적에 따라 시각적으로 왜곡되어 보일 수 있는데요. 실제 어느 지역이 선거 결과에 영향을 많이 미쳤는지 확인해보기 위해 투표자수 기준으로 득표차 비율을 표시했습니다. 
+vuski님이 공유해주신 데이터를 사용했습니다.
+
+수정: 좀 더 비교하기 좋게 권역별로 묶었습니다.]]></content:encoded>
+            <enclosure url="https://alook.so/_c/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMGlaQWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--69a1a9e79b14c4cef7b447c3ac0470472e315b4d/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9MWm05eWJXRjBTU0lKYW5CbFp3WTZCa1ZVT2hSeVpYTnBlbVZmZEc5ZmJHbHRhWFJiQjJrQ2hBTnBBb1FET2d4amIyNTJaWEowU1NJSWFuQm5CanNHVkRvS2MyRjJaWEo3Q0RvTWNYVmhiR2wwZVdsVk9ncHpkSEpwY0ZRNkQySmhZMnRuY205MWJtUmJDR2tCLzJrQi8ya0Ivdz09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--03e61ef78c29925b4dd0893f684e472e94efcabc/SCR-20220312-x88.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[평점 테러와 차별의 학습]]></title>
+            <link>https://alook.so/posts/RGt7Rv</link>
+            <guid>https://alook.so/posts/RGt7Rv</guid>
+            <pubDate>Sun, 17 Apr 2022 05:57:51 GMT</pubDate>
+            <content:encoded><![CDATA[저도 카카오브레인 뽀로로의 긍부정감성 분석 사용해보면서 예상 외로 그럴듯한 점수가 나와서 재밌네 싶다가도 영 엉뚱한 결과가 나와서 이게 뭔가 싶었는데요. 학습데이터가 사람이 문장의 뜻을 보고 긍부정 레이블링을 한 데이터가 아니라 영화나 상품의 평점을 맵핑했을 거라고 생각하고 있습니다. 낮은 평점을 주면서는 부정적인 리뷰를 남기고 좋은 평점을 주면서는 긍정적인 말을 적었을 가능성이 높으니 어느 정도 개연성이 있을 것 같습니다. 다만 기계 학습이 말의 맥락을 이해하지 못하는 것 같은데요. "xx는 곧 죽는다에 한표!" 같은 말을 긍정으로 분류해서 갸우뚱했는데요. "와 이 영화 죽인다!" 의 감탄의 말을 학습했을 수도 있겠다 싶더라구요. 이번 건은 페미니즘 영화에 대한 혐오 세력의 평점 테러와 공격적 발언의 어뷰징을 전처리에서 걸러내지 않고 학습 시킨게 아닐까 의심 됩니다.&nbsp; 
+https://www.bbc.com/korean/international-50011058]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[호감도와 실제 표 움직임은 다를 것 같습니다.]]></title>
+            <link>https://alook.so/posts/DjtDy8</link>
+            <guid>https://alook.so/posts/DjtDy8</guid>
+            <pubDate>Sun, 17 Apr 2022 05:57:51 GMT</pubDate>
+            <content:encoded><![CDATA[안철수 후보가 단일화 제안을 했는데요. 어떻게 진행될지는 알 수 없지만 윤석열 후보로 단일화 된다면 호감도 설문으로 예상한 것과는 다르게 많은 표가 윤석열 후보로 이동할 것 같습니다.
+다양한 요인이 있으니 호감도만으로는 실제 표가 어떻게 움직일지 예측하긴 어려울 것 같고요. 좀 더 직접적으로 연관이 높은 건 결국 여론 조사 지지율로 나타날 것 같은데요. mbc 여론M에서 수집한 여론 조사를 보면 표 이동이 많을 중도층의 윤석열과 안철수 지지율은 거울상처럼 반대로 상관관계가 높은데요. 단일화를 한다면 상당수의 안철수 지지자 표를 윤석열이 가져가게 되지 않을까 싶습니다.]]></content:encoded>
+            <enclosure url="https://alook.so/_c/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBL0pUQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--a92ddb6a8f4cc8477939e20ceb19cce1ac1efe4b/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9MWm05eWJXRjBTU0lJY0c1bkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFLRUEya0NoQU02REdOdmJuWmxjblJKSWdocWNHY0dPd1pVT2dwellYWmxjbnNJT2d4eGRXRnNhWFI1YVZVNkNuTjBjbWx3VkRvUFltRmphMmR5YjNWdVpGc0lhUUgvYVFIL2FRSC8iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--b8a1712bc8452aea08f63e2a9adf3256f64d7ceb/SCR-20220216-h08.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[하나의 숫자보다는 다양한 사람의 마음을 보여주기]]></title>
+            <link>https://alook.so/posts/yEtOnm</link>
+            <guid>https://alook.so/posts/yEtOnm</guid>
+            <pubDate>Sun, 17 Apr 2022 05:57:51 GMT</pubDate>
+            <content:encoded><![CDATA[저도 평균 통계값보다는 분포가 궁금했는데요. 특정 후보 지지자라는 동일 그룹 안에도 다양한 생각을 가진 사람들이 모여 있으니 하나의 숫자보다는 어떤 사람들인지 궁금했습니다. 여론조사심의위원회 에 올라온 자료에 교차분석표가 있어 호감도 분포를 그려봤습니다.&nbsp; 
+
+이렇게 분포로 그려보면 (단일화로 어쩔 수 없이 호감이 낮은 쪽으로 옮겨야 한다면) 호감 영역이 겹치는 후보로의 이동이 쉬울 것으로 생각할 수 있습니다. 복잡해지긴 했지만 원래의 주장 ( 안철수로 단일화하면 윤석열 지지자 표가 안철수로 옮겨갈 확률은 높지만 윤석열로 단일화하면 안철수 지지자 표가 모두 윤석열로 옮겨가길 기대하긴 어렵다)을 시각적으로 더 잘 설명할 수 있다고 생각합니다. 
+호감도로만 본다면 윤석열로 단일화 했을때 안철수 지지자의 표는 윤석열 뿐 아니라 이재명으로 분산될 것이라는게 시각적으로 드러납니다.
+분포 시각화로 드러나는 보다 중요한 점은 이재명 지지자나 윤석열 지지자의 반대 후보 호감도가 1.3, 1....]]></content:encoded>
+            <enclosure url="https://alook.so/_c/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBM1ZHQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--895abaab6082114fe4f119af7fc91a79d91dbd9f/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9MWm05eWJXRjBTU0lKYW5CbFp3WTZCa1ZVT2hSeVpYTnBlbVZmZEc5ZmJHbHRhWFJiQjJrQ2hBTnBBb1FET2d4amIyNTJaWEowU1NJSWFuQm5CanNHVkRvS2MyRjJaWEo3Q0RvTWNYVmhiR2wwZVdsVk9ncHpkSEpwY0ZRNkQySmhZMnRuY205MWJtUmJDR2tCLzJrQi8ya0Ivdz09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--03e61ef78c29925b4dd0893f684e472e94efcabc/SCR-20220212-j8n.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[수정사항] 이유민님 인생곡선]]></title>
+            <link>https://alook.so/posts/o7tVrJ</link>
+            <guid>https://alook.so/posts/o7tVrJ</guid>
+            <pubDate>Sun, 17 Apr 2022 05:57:51 GMT</pubDate>
+            <content:encoded><![CDATA[아래 이유민님 인생곡선&nbsp; 최종 인생곡선에 잘 못된 부분이 있는 것 같아 수정해 봤어요.
+답글의 댓글에는 그림을 넣을 수 없어서 여기에 남깁니다.
+ 인간관계나 사랑에 대해서는 잘 모르지만 :) 꿈에 대해서만큼은 이런 모습일 것 같아요.]]></content:encoded>
+            <enclosure url="https://alook.so/_c/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbVdQIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--04e3362608d947b013041d6e78f30ee2ff23df28/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFLRUEya0NoQU02REdOdmJuWmxjblJKSWdocWNHY0dPd1pVT2dwellYWmxjbnNJT2d4eGRXRnNhWFI1YVZVNkNuTjBjbWx3VkRvUFltRmphMmR5YjNWdVpGc0lhUUgvYVFIL2FRSC8iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--9e2ce9b4634fcfcbc951bda419cd2b10eaa9b5bf/IMG_2916.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[왜 노년 층의 페미니즘 점수는 오히려 퇴보할까?]]></title>
+            <link>https://alook.so/posts/w9tREy</link>
+            <guid>https://alook.so/posts/w9tREy</guid>
+            <pubDate>Sun, 17 Apr 2022 05:57:51 GMT</pubDate>
+            <content:encoded><![CDATA[observable plot을 공부할 겸 본문의 페미니즘 점수 변화를 다시 그려봤습니다. 원 그래프에서 3가지 속성을 세로 축엔 그룹의 구분을, 가로 축엔 점수, 시간의 변화 두 가지를 함께 나타내고 있는데요. 이 둘을 직교시켜 경사 차트로 그리면 그룹간의 차이와 변화를 더 잘 드러낼 수 있습니다.&nbsp;
+
+연령별로 스몰 멀티플즈로 펼쳐 놓으면 세대별 차이가 보다 잘 드러납니다. 젊은 세대 일 수록 페미니즘 격차가 큰 만큼 갈등도 클 것 같습니다.
+20대 여성의 점수가 높아진 것이 가장 두드러지게 보이지만 젊은 층(20대, 30대, 40대 여성)의 점수는 남녀 모두 높아지고 있습니다. 아마도 사회 전반의 페미니즘 교육의 긍정적 효과일 것 같습니다. 그런데 노년층의 점수는 오히려 낮아지고 있습니다. 표본의 오차일 수 있는데. 40대,50대 남성의 점수는 눈에 띄게 낮아졌습니다. 왜 이런 차이가 생긴 걸까요?
+
+처음 그래프의 남성 그룹만을 보면 30대 이하와 이상의 격차가 2021년에...]]></content:encoded>
+            <enclosure url="https://alook.so/_c/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBazJJIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--3d0a63e836b9184ee9e7acf2f562f8980f9ab8b8/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9MWm05eWJXRjBTU0lJY0c1bkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFLRUEya0NoQU02REdOdmJuWmxjblJKSWdocWNHY0dPd1pVT2dwellYWmxjbnNJT2d4eGRXRnNhWFI1YVZVNkNuTjBjbWx3VkRvUFltRmphMmR5YjNWdVpGc0lhUUgvYVFIL2FRSC8iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--b8a1712bc8452aea08f63e2a9adf3256f64d7ceb/Screen%20Shot%202021-11-14%20at%2012.28.13%20PM.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[평균은 비정규 분포 집단의 성격을 잘 대표하지 못한다.]]></title>
+            <link>https://alook.so/posts/LKtGmw</link>
+            <guid>https://alook.so/posts/LKtGmw</guid>
+            <pubDate>Sun, 17 Apr 2022 05:57:51 GMT</pubDate>
+            <content:encoded><![CDATA[위에 보이는 각 산포도의 평균을 구하면 아마 가운데 한 점으로 다 같을 텐데요. 우리는 원과 공룡이 같지 않다는 것을 압니다. 평균이 유용한 대표값인 경우는 보통 집단이 정규분포를 이룰 때인데요. 우리가 평균값을 보면 반사적으로 정규 분포로 오해해 평균을 중심으로 예쁘게 분포되어 있을 것으로 잘 못 예상하는 경우가 많습니다. 평균 소득도 그런 경우 중 하나 입니다. 소수의 부자가 보통 사람보다 엄청나게 많은 돈을 벌기 때문에 평균에 왜곡이 생깁니다. 페미니즘 점수 전체 평균이 -2.0에서 -1.4로 옮긴 것만 보고는 연령,성별 그룹의 이런 차이를 예상하지 못했을 것입니다. 우리가 모두 똑같은 생각을 하는 평준화된 집단이 아니라 서로 다른 생각을 가진 개인들이 모인 것이니까요. 다만 비슷한 유형을 묶어 볼 수 있고 비슷한 맥락을 공유하면 비슷한 성격을 띄는 경우가 많습니다. 이렇게 연령,성별 그룹마다 성격이 다른 것처럼 20대 남 그룹도 하나의 평균 점으로 그 특성을 규정하기 ...]]></content:encoded>
+            <enclosure url="https://alook.so/_c/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcTJFIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a71bd24fc77730a14bc985b25d52dd0caf06dbc6/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9MWm05eWJXRjBTU0lKYW5CbFp3WTZCa1ZVT2hSeVpYTnBlbVZmZEc5ZmJHbHRhWFJiQjJrQ2hBTnBBb1FET2d4amIyNTJaWEowU1NJSWFuQm5CanNHVkRvS2MyRjJaWEo3Q0RvTWNYVmhiR2wwZVdsVk9ncHpkSEpwY0ZRNkQySmhZMnRuY205MWJtUmJDR2tCLzJrQi8ya0Ivdz09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--03e61ef78c29925b4dd0893f684e472e94efcabc/CTS-11-371-g005.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[심슨의 역설?]]></title>
+            <link>https://alook.so/posts/1RtXVa</link>
+            <guid>https://alook.so/posts/1RtXVa</guid>
+            <pubDate>Sun, 17 Apr 2022 05:57:51 GMT</pubDate>
+            <content:encoded><![CDATA[심슨의 역설은 집단을 세분화하지 않고 보면 실제 집단의 특성과는 반대되는 경향성을 나타낼 수도 있다는 것인데요. 조선족이나 트렌스젠더, 난민의 권리는 보호되는 게 아니라 오히려 축소되어야 한다는 생각하는 페미니스트가 절반,1/3,1/4이 넘습니다. 페미니스트는 다른 집단에 비해 소수자 권리 보호를 지지하는 비율이 높다고만 일반화하는 것은 집단을 세분화하지 않아 집단의 성격을 오해하는 심슨의 역설 같은 게 아닌가 싶습니다. 
+집단을 페미니스트, 중립, 반 페미니스트 큰 덩어리로 묶었기 때문인데요. 처음 페미니즘 태도 측정 문항이 서로 상관관계가 있어 단일 척도처럼 나뉘어진 건 아닌가 싶습니다. 여성 차별에 반대하는 페미니스트가 다른 소수자 차별에도 반대하는 경향성이 높긴 하지만 집단을 세분화해 특성을 살펴보면 더 많은 발견점을 찾을 수 있지 않을까 기대됩니다.&nbsp; 
+디자인을 하면서도 퍼소나 같은 사용자 유형을 나눌때 행동 변수를 사용하는데요. 나는 페미니스트야라고 말하는 것보다는...]]></content:encoded>
+            <enclosure url="https://alook.so/_c/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBb2lDIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--b2cbdd5d8648c2c6c183ef6af3aed00e144229c2/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9MWm05eWJXRjBTU0lKYW5CbFp3WTZCa1ZVT2hSeVpYTnBlbVZmZEc5ZmJHbHRhWFJiQjJrQ2hBTnBBb1FET2d4amIyNTJaWEowU1NJSWFuQm5CanNHVkRvS2MyRjJaWEo3Q0RvTWNYVmhiR2wwZVdsVk9ncHpkSEpwY0ZRNkQySmhZMnRuY205MWJtUmJDR2tCLzJrQi8ya0Ivdz09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--03e61ef78c29925b4dd0893f684e472e94efcabc/simpsons-paradox.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[이번 데이터에서도 극단적인 "20대남" 그룹이 분리되나요?]]></title>
+            <link>https://alook.so/posts/zvtjW4</link>
+            <guid>https://alook.so/posts/zvtjW4</guid>
+            <pubDate>Sun, 17 Apr 2022 05:57:51 GMT</pubDate>
+            <content:encoded><![CDATA[천관율 기자님의 2019년 시사인 &amp;lt;20대 남자, 그들은 누구인가&amp;gt; 기사에서 20대 남성의 1/4이 공정과 페미니즘에 대해 굉장히 다른 생각을 가지고 있다는 것을 보여줘서 충격적이었습니다. 그래서 이번에는 그 집단을 더 세분화하고 설문조사와 함께 심층 인터뷰로 왜? 에 대한 답을 들을 수 있기를 기대했습니다. 그런데 이번에는 연령과 성별이 아니라 부의 계급이 더 큰 차이를 만든다는 결론이어서 이게 뭐지 싶은 생각이 듭니다. 물론 지금의 현상을 보여주는 중요한 기사이긴하지만 사실 크게 새롭지 않은 내용이어서요. &amp;lt;계급이 돌아왔다 - 이대남 현상이라는 착시&amp;gt; 계급이 돌아온 것이 아니라 계급은 항상 있어왔고 "이대남"이라는 현상이 주목받았던 것 이니까요.
+&nbsp;
+혹시 이번 데이터 분석에서는 기존 "20대남" 그룹이 잘 분리되지 않은 것 인가요? 데이터에 성별,연령 그룹의 비교가 없어서 의아합니다. 극단적인 답변을 한 그룹이 다른 그룹에는 없었던 게 아니라 20대 남...]]></content:encoded>
+            <enclosure url="https://alook.so/_c/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaDEvIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ba80bd9405ee525cb2e73d90f5187fabcd9b4f73/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9MWm05eWJXRjBTU0lJY0c1bkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFLRUEya0NoQU02REdOdmJuWmxjblJKSWdocWNHY0dPd1pVT2dwellYWmxjbnNJT2d4eGRXRnNhWFI1YVZVNkNuTjBjbWx3VkRvUFltRmphMmR5YjNWdVpGc0lhUUgvYVFIL2FRSC8iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--b8a1712bc8452aea08f63e2a9adf3256f64d7ceb/34344_66972_2125.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[여성가족부, 다름을 존중하고 함께하는 세상을 만듭니다.]]></title>
+            <link>https://alook.so/posts/NRGtbP</link>
+            <guid>https://alook.so/posts/NRGtbP</guid>
+            <pubDate>Sun, 17 Apr 2022 05:57:51 GMT</pubDate>
+            <content:encoded><![CDATA[🔍 지난 쏘프라이즈 선정작입니다.
+
+
+제목은 여성 가족부 홈페이지에 들어가면 처음 나오는 문장입니다. 이번에 여성 가족부가 무슨 일을 하는지 예산 편성을 통해 피상적으로나마 살펴보게 되었는데요. 여가부는 국가를 구성하는 기본 단위인 가족과 그 구성원이 소외되거나 차별 받지 않도록 보호하고 권익을 높이는 일을 합니다. 여성과 청소년을 넘어서 획일적인 근대적 사회에서 다양성의 사회로 넘어가는 도중 소외되거나 차별 받는 사람 없이 모두가 함께 하는 사회를 만드는 게 현재의 여성가족부가 궁극적으로 지향하는 바 가 아닐까 생각합니다. 
+
+Diversity and Inclusion
+
+
+미국에서 잠시 생활하는 동안 아이들이 초등학교를 다녔는데요. 미국 초등학교 교육이 가장 가치를 두는 부분은 아이들이 교육과 경쟁에 매몰되지 않고 다양성을 경험하고 그것을 포용하는 삶의 방식을 내재화 하는 것임을 체감하고 크게 인상에 남았습니다.
+
+
+이번에 여성가족부가 이슈가 된 것은 야권에서 여성가족부를 ...]]></content:encoded>
+        </item>
+    </channel>
+</rss>

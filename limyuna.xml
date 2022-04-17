@@ -1,8 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://alook.so/users/xZBt7x</id>
-    <title>alookso ─ 임유나</title>
-    <updated>2022-04-17T05:09:12.097Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>alookso ─ 임유나</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sun, 17 Apr 2022 05:58:29 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[datalook] 역대 화이트 크리스마스는?]]></title>
+            <link>https://alook.so/posts/1RtaLX</link>
+            <guid>https://alook.so/posts/1RtaLX</guid>
+            <pubDate>Sun, 17 Apr 2022 05:58:21 GMT</pubDate>
+            <content:encoded><![CDATA[내일 12월 25일, 화이트 크리스마스를 기대하고 계시나요?
+살면서 몇 번의 화이트 크리스마스를 맞이하였나요?
+&nbsp;
+크리스마스를 기념하여 역대 화이트 크리스마스 인포그래픽을 만들어 보았습니다. 
+
+- 지역은 날씨 관측 정보가 기록되어 있는 지점(유인관서) 중 1특별시(서울), 6광역시(부산, 대구, 인천, 대전, 광주, 울산), 1특별자치도(제주) 8개 지역만 
+- 적설량에 관계없이 눈, 싸락눈, 진눈깨비, 소낙눈이 관측된 날을 눈이 내린 날로 표시
+- 활용 데이터: 기상청 과거관측
+- 활용 시각화툴: flourish, 아이콘은 직접 제작(datalook green💚)
+
+❄️⛄ 서울❄️⛄ 부산❄️⛄ 대구❄️⛄ 인천❄️⛄ 대전❄️⛄ 광주❄️⛄ 울산❄️⛄ 제주
+🦌🎅🏻🎁&nbsp; Merry Christmas!]]></content:encoded>
+            <enclosure url="https://alook.so/_c/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbVhWIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--85650dc616ca0c5df03a6f8935b9d76d03787271/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9MWm05eWJXRjBTU0lJY0c1bkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFLRUEya0NoQU02REdOdmJuWmxjblJKSWdocWNHY0dPd1pVT2dwellYWmxjbnNJT2d4eGRXRnNhWFI1YVZVNkNuTjBjbWx3VkRvUFltRmphMmR5YjNWdVpGc0lhUUgvYVFIL2FRSC8iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--b8a1712bc8452aea08f63e2a9adf3256f64d7ceb/%E1%84%89%E1%85%A5%E1%84%8B%E1%85%AE%E1%86%AF.png" length="0" type="image/png"/>
+        </item>
+    </channel>
+</rss>
