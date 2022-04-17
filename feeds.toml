@@ -16,7 +16,7 @@ entrySelector = "div.flex.flex-col.break-words.min-w-0.bg-white"
 titleSelector = "h5[data-qa='post-title'] a"
 linkSelector = "div.flex-auto.mt-2.space-y-2 > h6 > a:nth-child(2)"
 contentSelector = "h6 a.trix-content-post-partial div.trix-content.line-clamp-5"
-imageSelector = "a div img[data-qa='post-cover']"
+imageSelector = "div img[data-qa='post-cover']"
 waitUntil = "networkidle"
 onFail = "stale"
 
