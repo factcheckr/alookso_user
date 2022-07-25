@@ -4,9 +4,20 @@
         <title>alookso ─ 김지은</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Jul 2022 00:43:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jul 2022 03:10:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[동작12 회차 구역의 초록]]></title>
+            <link>https://alook.so/posts/70tkb4z</link>
+            <guid>https://alook.so/posts/70tkb4z</guid>
+            <pubDate>Mon, 25 Jul 2022 03:10:00 GMT</pubDate>
+            <content:encoded><![CDATA[지역: 서울시 동작구 상도동 골목
+버스: 동작12 더크는킨더어린이집
+
+사진을 찍으려고 보니 가로수 심은 폭 같은 게 눈에 들어와요 ~ ! 프로젝트 완성이 기대됩니다 ❣️]]></content:encoded>
+            <enclosure url="https://alook.so/_c/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMkNTQmc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--769eebf3029eb2d8292e2c7c8cd6b54882963d40/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9MWm05eWJXRjBTU0lJY0c1bkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFLRUEya0NoQU02REdOdmJuWmxjblJKSWdocWNHY0dPd1pVT2dwellYWmxjbnNJT2d4eGRXRnNhWFI1YVZVNkNuTjBjbWx3VkRvUFltRmphMmR5YjNWdVpGc0lhUUgvYVFIL2FRSC8iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--b8a1712bc8452aea08f63e2a9adf3256f64d7ceb/%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C%20(2).png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[답글: 🌸 ‘봄의 걸음걸이’ 꽃지도를 그려 봅시다]]></title>
             <link>https://alook.so/posts/4XtepP6</link>
@@ -135,21 +146,6 @@ So, it matters
 글을 매번 잘 읽고 나서도 답글은커녕 "잘 읽고 있습니다!" 같은 말도 못했네요. 다 읽고 보니 분량이 평소 쓰시는 것보다 꽤 긴 편인데, 긴 줄도 모르고 '오~' '오~?' '오~!'를 속으로 반복하면서 쫙 읽었답니다. 잘 읽었습니다!
 
 '베테랑 기자들의 암묵지' … 다들 무엇인지 알지만 뭐냐고 물으면 각양각색일 것 같기도요 : ) 베테랑 기자분들에게 암묵지의 정의, "그 '감'이란 무엇이냐"를 묻고 답을 모아봐도 재밌을 것 같아요!&nbsp;]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[글을 자꾸 쓰다 보니 출간의뢰가 왔다.txt]]></title>
-            <link>https://alook.so/posts/6MtpoG</link>
-            <guid>https://alook.so/posts/6MtpoG</guid>
-            <pubDate>Thu, 14 Jul 2022 03:16:54 GMT</pubDate>
-            <content:encoded><![CDATA[얼룩소 바깥에서 저는 책을 만드는 편집자였답니다. 
-달리는 사람 옆에 runningmate가 있는 것처럼, 쓰는 사람들의 mate가 되겠다는 뜻으로 writingmate라는 아이디를 쓰기도 했지요. 얼룩소를 탐방하면서, 이렇게 쓰고 싶은 사람들이 많았구나에 매일 놀라는 요즘입니다. 
-
-그렇다면
-글로 쓰고 싶은 게 많은 얼룩커분들께 이런 이야기도 괜찮을까요? 온라인에 꾸준히 쓴 내 글이 출판사에 발견되고, 책으로 묶이는 경로에 관한 이야기. 특히 alookso, SNS, 블로그, 브런치와 같은 온라인 매체에 글을 부지런히 올리는 얼룩커분들이라면 이미 출간의뢰를 받아보신 분들도 많이 계실 것 같습니다.
-
-편집자들이 온라인에서 작가를 발견하고, 집필 제안 연락을 드리고, 계약까지 이어지는 과정을 소개해보겠습니다.
-
-편집자들은 좋은 필자를 찾기 위해&nbsp; SNS, 브런치, 폴인, 퍼블리, 아이보스 칼럼, 오픈애즈, 뉴스레터, 카페 등 각종 커뮤니티와 웹 칼럼 발행 매체 들을 헤치고 다닙니...]]></content:encoded>
         </item>
     </channel>
 </rss>
